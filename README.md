@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning B.TECH(CSE)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... akashswaika318@gmail.com
 
 <!---
 akky2000/akky2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
